@@ -1,0 +1,15 @@
+SE SI IMPORTA IL DATABASE IN LOCALE SU XAMPP:
+Una volta importato il database su MySql, far partire questa query!
+perchè il database è protetto da una password ed un idutente
+
+QUERY DA FAR PARTIRE:
+grant all privileges on id13751875_museo.* to 'id13751875_ionutsuciuaugustin'@'localhost' identified by 'GruyAjsX{XSfPpV0'
+
+CREDENZIALI PER ENTRARE COME ADMIN nel sito web:
+username: "adminnn"
+password: "adminkappa"
+
+
+SE CI FOSSERO PROBLEMI CON IL LOCALE, PROVARE LA VERSIONE ONLINE ANDANDO AL LINK:
+
+https://ilmuseodellamaturita.000webhostapp.com/index.php
